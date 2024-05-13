@@ -1,0 +1,14 @@
+namespace: devim
+name: yandex_cloud_plugin
+version: 1.0.0
+readme: README.md
+description: Yandex Cloud inventory plugin for Ansible
+repository: https://gitlab.devim.team/devops_internal/ansible-yc-plugin
+tags:
+  - cloud
+  - yandex
+  - virtualization
+dependencies: {}
+homepage: https://gitlab.devim.team/devops_internal
+authors:
+  - agmtr ab@devim.team
