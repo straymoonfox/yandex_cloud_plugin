@@ -1,0 +1,5 @@
+---
+collections:
+- name: git+https://github.com/straymoonfox/yandex_cloud_plugin
+  source: https://github.com/straymoonfox/yandex_cloud_plugin
+  type: git
